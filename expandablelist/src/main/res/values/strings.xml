@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ExpandableList</string>
+
+    <string-array name="sanguo">
+        <item>魏国</item>
+        <item>蜀国</item>
+        <item>吴国</item>
+    </string-array>
+
+    <string-array name="weiguo">
+        <item>曹操</item>
+        <item>曹丕</item>
+        <item>曹植</item>
+        <item>曹仁</item>
+        <item>曹洪</item>
+    </string-array>
+
+    <string-array name="shuguo">
+        <item>刘备</item>
+        <item>关羽</item>
+        <item>张飞</item>
+        <item>诸葛亮</item>
+    </string-array>
+
+    <string-array name="wuguo">
+        <item>孙坚</item>
+        <item>孙策</item>
+        <item>孙权</item>
+        <item>周瑜</item>
+        <item>鲁肃</item>
+        <item>吕蒙</item>
+    </string-array>
+</resources>

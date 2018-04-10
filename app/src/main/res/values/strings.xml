@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListDemo</string>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Pineapple</item>
+        <item>Watermelon</item>
+    </string-array>
+
+    <string-array name="foods">
+        <item>Sugar</item>
+        <item>Rice</item>
+        <item>Bread</item>
+        <item>Meat</item>
+    </string-array>
+</resources>
